@@ -5,4 +5,7 @@ Fixed for latest update
 
 # How to download
 Download from the zip
-Extract to the Gorilla Tag folder or install with Monke Mod Manager
+Extract to the Gorilla 
+
+
+Tag folder or install with Monke Mod Manager
